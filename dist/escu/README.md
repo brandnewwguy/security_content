@@ -1,4 +1,4 @@
-# Splunk ES Content Update
+# Splunk ES Content Update - Framework App
 
 This subscription service delivers pre-packaged Security Content for use with Splunk Enterprise Security. Subscribers get regular updates to help security practitioners more quickly address ongoing and time-sensitive customer problems and threats.
 
